@@ -6,9 +6,6 @@
 Skills: REACT / JS / HTML / CSS / Python / TypeScript / C# / C++
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyr01&layout=compact)
-
-
 
 
 
